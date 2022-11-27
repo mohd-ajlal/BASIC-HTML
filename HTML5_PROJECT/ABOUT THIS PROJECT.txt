@@ -1,0 +1,22 @@
+THIS PROJECT USE MANY TAGS AND FUNCTIONALITY OF HTML5.
+ONLY USE HTML5 IS THIS PROJECT.
+
+SOFTWARE USE: VISUAL STUDIO CODE
+
+ABOUT SYSTEM:
+
+Device name	mohd_ajlal
+Processor	12th Gen Intel(R) Core(TM) i5-1240P   1.70 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	1562955A-65F4-4DC0-9DA6-0BABB73C8446
+Product ID	00342-42623-38704-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	Pen support
+
+Edition	Windows 11 Home Single Language
+Version	22H2
+Installed on	‎29-‎09-‎2022
+OS build	22621.819
+Experience	Windows Feature Experience Pack 1000.22636.1000.0
+
+Manufacturer	Acer 
